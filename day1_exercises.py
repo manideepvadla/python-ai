@@ -287,3 +287,10 @@ for employee in employees:
         print(employee["name"] ,band(employee["salary"]))
         
     
+#Extract a field  [x["field"] for x in items]
+#Filter [x for x in items if condition]
+#Sum sum(x["amount"] for x in orders)
+#Max/min by field max(items, key=lambda x: x["bugs"])
+#Any / all any(...), all(...)
+#Count len([x for x in items if ...])
+#Flatten nested list [role for u in users for role in u["roles"]]
