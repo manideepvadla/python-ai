@@ -1,0 +1,13 @@
+2026-05-20 login user=ana
+2026-05-20 view page=dashboard user=ben
+2026-05-21 login user=cara
+2026-05-21 error code=500 user=dan
+2026-05-21 logout user=ana
+2026-05-21 practice user=you
+2026-05-21 practice user=you
+2026-05-21 practice user=you
+2026-05-21 practice user=you
+2026-05-21 practice user=you
+2026-05-21 practice user=you
+2026-05-21 practice user=you
+2026-05-21 practice user=you

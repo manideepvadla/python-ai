@@ -1,0 +1,10 @@
+[
+  {
+    "name": "RAG Chatbot",
+    "bugs": 9
+  },
+  {
+    "name": "Auth Service",
+    "bugs": 9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John",
+    "salary": 90000,
+    "department": "AI",
+    "band": "junior"
+  },
+  {
+    "name": "Alice",
+    "salary": 120000,
+    "department": "Platform",
+    "band": "senior"
+  },
+  {
+    "name": "Bob",
+    "salary": 110000,
+    "department": "AI",
+    "band": "mid"
+  },
+  {
+    "name": "Sara",
+    "salary": 95000,
+    "department": "Platform",
+    "band": "junior"
+  },
+  {
+    "name": "Mia",
+    "salary": 105000,
+    "department": "AI",
+    "band": "mid"
+  }
+]

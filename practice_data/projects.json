@@ -1,0 +1,7 @@
+[
+  {"name": "AI Dashboard", "status": "Completed", "bugs": 4, "priority": 2},
+  {"name": "RAG Chatbot", "status": "In Progress", "bugs": 9, "priority": 1},
+  {"name": "Metrics API", "status": "Completed", "bugs": 2, "priority": 3},
+  {"name": "Auth Service", "status": "In Progress", "bugs": 9, "priority": 1},
+  {"name": "Billing UI", "status": "Blocked", "bugs": 1, "priority": 2}
+]

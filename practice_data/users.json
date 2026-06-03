@@ -1,0 +1,8 @@
+{
+  "users": [
+    {"name": "Ana", "roles": ["admin", "editor"], "active": true},
+    {"name": "Ben", "roles": ["viewer"], "active": false},
+    {"name": "Cara", "roles": ["admin", "viewer"], "active": true},
+    {"name": "Dan", "roles": ["editor"], "active": true}
+  ]
+}

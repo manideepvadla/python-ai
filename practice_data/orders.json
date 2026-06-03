@@ -1,0 +1,7 @@
+[
+  {"id": 101, "customer": "Acme", "amount": 250, "paid": true},
+  {"id": 102, "customer": "Beta", "amount": 80, "paid": false},
+  {"id": 103, "customer": "Gamma", "amount": 420, "paid": true},
+  {"id": 104, "customer": "Delta", "amount": 150, "paid": true},
+  {"id": 105, "customer": "Echo", "amount": 95, "paid": false}
+]
